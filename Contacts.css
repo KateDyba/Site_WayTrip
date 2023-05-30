@@ -1,0 +1,276 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 372px;
+} .u-section-2 {
+  background-image: linear-gradient(0deg, #aad9ce, #293331);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 563px;
+}
+
+.u-section-2 .u-shape-1 {
+  width: 357px;
+  height: 357px;
+  background-image: linear-gradient(#4d655f, #f4fcff);
+  margin: -256px auto 0 221px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 528px;
+  height: 528px;
+  background-image: url("images/young-female-traveler-enjoying-rural-surroundings.jpg");
+  background-position: 45.27% 50%;
+  margin: -348px 121px 0 auto;
+}
+
+.u-section-2 .u-image-2 {
+  width: 343px;
+  height: 343px;
+  background-image: url("images/beautiful-rural-view-with-trees.jpg");
+  background-position: 0% 50%;
+  margin: -309px auto 0 127px;
+}
+
+.u-section-2 .u-group-1 {
+  min-height: 231px;
+  height: auto;
+  margin-top: 8px;
+  margin-bottom: 9px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 24px 19px;
+}
+
+.u-section-2 .u-group-2 {
+  width: 325px;
+  background-image: none;
+  min-height: 171px;
+  height: auto;
+  margin: 3px auto 0 30px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding-left: 13px;
+  padding-right: 13px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Philosopher;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  line-height: 1.63;
+  margin: 10px 29px 0 0;
+}
+
+.u-section-2 .u-icon-1 {
+  width: 30px;
+  height: 30px;
+  margin: -114px auto 84px 12px;
+  padding: 0;
+}
+
+.u-section-2 .u-group-3 {
+  width: 325px;
+  background-image: none;
+  min-height: 170px;
+  height: auto;
+  margin: -171px auto 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: Philosopher;
+  font-size: 1.5rem;
+  text-transform: none;
+  line-height: 1.63;
+  margin: 13px 43px 0 12px;
+}
+
+.u-section-2 .u-icon-2 {
+  width: 30px;
+  height: 30px;
+  margin: -115px auto 85px 12px;
+  padding: 0;
+}
+
+.u-section-2 .u-group-4 {
+  width: 325px;
+  background-image: none;
+  min-height: 170px;
+  height: auto;
+  margin: -171px 29px 0 auto;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+}
+
+.u-section-2 .u-text-3 {
+  font-family: Philosopher;
+  font-size: 1.5rem;
+  text-transform: none;
+  line-height: 1.63;
+  margin: 13px 13px 0;
+}
+
+.u-section-2 .u-icon-3 {
+  width: 30px;
+  height: 30px;
+  color: rgb(255, 255, 255) !important;
+  margin: -114px auto 0 13px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1306px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin-top: 232px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: -742px;
+  }
+
+  .u-section-2 .u-group-1 {
+    margin-top: 497px;
+    height: auto;
+  }
+
+  .u-section-2 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-2 .u-group-3 {
+    height: auto;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-top: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-2 .u-group-4 {
+    height: auto;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-top: 8px;
+  }
+
+  .u-section-2 .u-text-3 {
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-shape-1 {
+    margin-left: 183px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-right: 12px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1290px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 340px;
+    height: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-top: -722px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 340px;
+    margin-top: -121px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-group-1 {
+    margin-top: 480px;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 320px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 24px;
+  }
+
+  .u-section-2 .u-group-3 {
+    width: 320px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 41px;
+    margin-left: 10px;
+  }
+
+  .u-section-2 .u-icon-2 {
+    margin-left: 10px;
+  }
+
+  .u-section-2 .u-group-4 {
+    width: 320px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 11px;
+    margin-right: 11px;
+  }
+
+  .u-section-2 .u-icon-3 {
+    margin-left: 11px;
+  }
+}
